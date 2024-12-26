@@ -10,7 +10,7 @@ Software Engineering Student at university technology malaysia.
 - Programming: C++, Java
 - Web Development: HTML, CSS
 
-## Project Technology and Information System:
+## Project Technology and Information System
 - Assignment 1 (Format: Poster)
 - Assignment 2 (Format: Video) 
 - Assignment 3 (Format: Report) 
