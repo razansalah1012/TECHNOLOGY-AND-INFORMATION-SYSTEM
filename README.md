@@ -1,6 +1,5 @@
 # TECHNOLOGY-AND-INFORMATION-SYSTEM
 Course: Technology and Information System (TIS) SECP1513 at university technology Malaysia UTM
-# [Razan salah ] - GitHub E-Portfolio
 ## About Me
 Software Engineering Student at university technology malaysia.
 
