@@ -11,9 +11,9 @@ Software Engineering Student at university technology malaysia.
 - Web Development: HTML, CSS
 
 ## Project Technology and Information System:
-▪ Assignment 1 (Format: Poster)
-▪ Assignment 2 (Format: Video) 
-▪ Assignment 3 (Format: Report) 
-▪ Assignment 4 (Format: Technical Paper IEEE Format)
+- Assignment 1 (Format: Poster)
+- Assignment 2 (Format: Video) 
+- Assignment 3 (Format: Report) 
+- Assignment 4 (Format: Technical Paper IEEE Format)
 
 
