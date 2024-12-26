@@ -16,14 +16,14 @@ Software Engineering Student at university technology malaysia.
 - Assignment 3 (Format: Report) 
 - Assignment 4 (Format: Technical Paper IEEE Format)
 
-# 🖥️Industry Talk Poster: Overview of ICT Jobs in Industry – PETRONAS Digital YGP  
+# Assignment 1: industry talk poster: 
 
-**📅 Date: 17 Nov 2024  
-**👥 Members:** Yusuf Zain Elabdin, Razan Salah Eldeen, Loai Rafaat Alqadasi, Mohamed Abdelgawwad  
+** Date:** 17 Nov 2024  
+**Members:** Yusuf Zain Elabdin, Razan Salah Eldeen, Loai Rafaat Alqadasi, Mohamed Abdelgawwad  
 
 ---
 
-## 📌 Project Description  
+## Project Description  
 This poster provides an overview of the role of ICT (Information and Communication Technology) in the industry, focusing on PETRONAS Digital Young Graduates Program (YGP). The project highlights how ICT drives innovation, operational efficiency, and sustainability in the energy sector.  
 
 ---
