@@ -46,3 +46,24 @@ I learned a lot during this visit, I learned that strong relationships between t
 **Duration**: 2:00 PM – 5:00 PM  
 **Hosted by**: Universiti Teknologi Malaysia (UTM) Digital  
 ---
+
+# Assignment 3: Industry Talk Reflection: Essential Skills and Strategies for Career Development
+
+## Overview
+This repository contains a summary and reflection on the industry talk hosted by **Mr. Nik Muhammad Habibullah bin Mohd Nizam** on December 17, 2024. The talk emphasized the essential skills and strategies required for students to succeed in the IT industry, covering technical expertise, soft skills, and career development approaches.
+
+## Reflection
+
+Attending the industry talk helped me understand the importance of a balanced skill set combining technical and soft skills. To excel in the field of computer science, I plan to:
+- Focus on mastering foundational and advanced technical skills.
+- Develop my project management capabilities using Agile and Scrum practices.
+- Enroll in online courses to deepen my knowledge and practical experience.
+- Manage my time effectively, avoid distractions, and stay disciplined.
+
+## Event Details
+- **Date**: December 17, 2024  
+- **Speaker**: Mr. Nik Muhammad Habibullah bin Mohd Nizam  
+- **Topic**: Essential Skills and Strategies for Career Development  
+- **Host**: Universiti Teknologi Malaysia (UTM)  
+
+
