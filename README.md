@@ -42,9 +42,10 @@ UTM Digital Industry Lecture, held on *December 31, 2024*, was an informative se
 I learned a lot during this visit, I learned that strong relationships between teams are a high priority because they are essential to system development, I saw the halls and types of them inside the building and many of the modern systems which gave me a new vision of how an entire system works, I would like to extend my sincere thanks to UTM Digital for organizing this useful event and sharing the values and vision of the industry
 
 ---
-**Event Date**: December 31, 2024  
-**Duration**: 2:00 PM – 5:00 PM  
-**Hosted by**: Universiti Teknologi Malaysia (UTM) Digital  
+## Event Details
+- Event Date: December 31, 2024  
+- Duration: 2:00 PM – 5:00 PM  
+- Hosted by: Universiti Teknologi Malaysia (UTM) Digital  
 ---
 
 # Assignment 3: Industry Talk Reflection: Essential Skills and Strategies for Career Development
