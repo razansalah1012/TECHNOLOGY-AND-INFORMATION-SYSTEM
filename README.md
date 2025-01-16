@@ -67,4 +67,68 @@ Attending the industry talk helped me understand the importance of a balanced sk
 - **Topic**: Essential Skills and Strategies for Career Development  
 - **Host**: Universiti Teknologi Malaysia (UTM)  
 
+# MAGICX Industrial Visit Reflection
+
+## Overview
+This repository documents the insights gained during the **MAGICX Industrial Visit** on **December 31, 2024**. The visit provided a comprehensive look into the use of advanced technologies such as Unity game engines, virtual reality (VR), and simulation tools for research, development, and solving real-world problems.
+
+## Reflection
+The visit to MAGICX was an eye-opening experience. It highlighted the significant role of game engines like Unity in solving real-world engineering problems and improving learning environments. Key takeaways include:
+- Understanding how VR and simulation tools are revolutionizing industries such as automotive safety, underwater pipelines, and aerospace.
+- The importance of certifications in Unity for enhancing technical expertise and industry readiness.
+- Realizing how virtual reality aids in visualizing real-world scales and environments effectively.
+
+## Event Details
+- **Date**: December 31, 2024  
+- **Time**: 2:00 PM  
+- **Location**: MAGICX Research Centre, UTM  
+- **Speaker**: Prof. Dr. Mohd. Yazid bin Idris  
+
+# Design Thinking Project: Library Management System
+
+## Key Phases of Design Thinking
+1. **Empathize**:
+   - made interviews with students and staff to identify key challenges:
+     - Difficulty locating books
+     - Long queues for borrowing
+     - Limited study spaces during peak hours 
+   - Observed library usage to gather insights on user frustrations and needs.
+
+2. **Define**:
+   - Problem Statement: The university library faces diffculties in resource discovery, borrowing, and space management, bringing innovative solutions for a more user-friendly environment.
+
+3. **Ideate**:
+   - Brainstormed creative solutions:
+     - Mobile app for navigation and study space booking.
+     - Automated borrowing kiosks.
+     - AI-powered personalized book recommendations.
+
+4. **Prototype**:
+   - Developed a mobile app prototype using Figma:
+     - Features include a search facility, study space reservation, and a borrowing system interface.
+
+5. **Test**:
+   - Tested the prototype with 10 students:
+     - 90% found navigation intuitive.
+     - Suggestions included adding advanced search filters, real-time notifications, and improved login processes.
+     
+    ## Reflection
+- **Goal**: Address real-world problems with technology solutions.
+- **Impact**: Learned the importance of user stories in project development and improved team collaboration.
+- **Plan**: Enhance UI/UX design skills and communication with users.
+
+## Project Details
+- **Course**: Technology and Information System (SECP1513)
+- **Section**: 07
+- **Lecturer**: Dr. Suriati binti Sadimon
+- **Group Members**:
+  - Loai Rafaat Alqadasi (A24CS9010)
+  - Mohamed Abdelgawwad Abdelghani (A23CS4025)
+  - Yusuf Zain Elabdin (A21EC9114)
+  - Razan Salah Eldeen (A23CS4052)
+
+## Links
+- figma:(https://www.figma.com/proto/48PdQ4DaXtIhr9e0PEhwAI/TIS-Prototype?node-id=0-1&t=Yhli6JFGi2oPrMCt-1)
+- Link video: (https://drive.google.com/drive/folders/1g5evyPrxYxzVw_1FBZ4-n-adlIvNFstM?usp=drive_link)
+
 
