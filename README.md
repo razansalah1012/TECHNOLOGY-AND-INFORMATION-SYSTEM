@@ -15,6 +15,8 @@ Software Engineering Student at university technology malaysia.
 - Assignment 2 (Format: Video) 
 - Assignment 3 (Format: Report) 
 - Assignment 4 (Format: Technical Paper IEEE Format)
+- Desidn thinking project
+- PC assamble lab
 
 # Assignment 1: industry talk poster: 
 
@@ -67,13 +69,13 @@ Attending the industry talk helped me understand the importance of a balanced sk
 - **Topic**: Essential Skills and Strategies for Career Development  
 - **Host**: Universiti Teknologi Malaysia (UTM)  
 
-# MAGICX Industrial Visit Reflection
+# MAGICX Industrial Visit 
 
 ## Overview
-This repository documents the insights gained during the **MAGICX Industrial Visit** on **December 31, 2024**. The visit provided a comprehensive look into the use of advanced technologies such as Unity game engines, virtual reality (VR), and simulation tools for research, development, and solving real-world problems.
+This document address the insights gained during the **MAGICX Industrial Visit** on **December 31, 2024**. The visit provided a comprehensive look into the use of advanced technologies such as Unity game engines, virtual reality (VR), and simulation tools for research, development, and solving real-world problems.
 
 ## Reflection
-The visit to MAGICX was an eye-opening experience. It highlighted the significant role of game engines like Unity in solving real-world engineering problems and improving learning environments. Key takeaways include:
+The visit to MAGICX was an eye-opening experience. It highlighted the role of game engines like Unity in solving real-world engineering problems and improving learning environments. include:
 - Understanding how VR and simulation tools are revolutionizing industries such as automotive safety, underwater pipelines, and aerospace.
 - The importance of certifications in Unity for enhancing technical expertise and industry readiness.
 - Realizing how virtual reality aids in visualizing real-world scales and environments effectively.
@@ -92,7 +94,6 @@ The visit to MAGICX was an eye-opening experience. It highlighted the significan
      - Difficulty locating books
      - Long queues for borrowing
      - Limited study spaces during peak hours 
-   - Observed library usage to gather insights on user frustrations and needs.
 
 2. **Define**:
    - Problem Statement: The university library faces diffculties in resource discovery, borrowing, and space management, bringing innovative solutions for a more user-friendly environment.
