@@ -69,7 +69,7 @@ Attending the industry talk helped me understand the importance of a balanced sk
 - **Topic**: Essential Skills and Strategies for Career Development  
 - **Host**: Universiti Teknologi Malaysia (UTM)  
 
-# MAGICX Industrial Visit 
+# Assignment 4: MAGICX Industrial Visit 
 
 ## Overview
 This document address the insights gained during the **MAGICX Industrial Visit** on **December 31, 2024**. The visit provided a comprehensive look into the use of advanced technologies such as Unity game engines, virtual reality (VR), and simulation tools for research, development, and solving real-world problems.
